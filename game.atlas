@@ -1,4155 +1,909 @@
 
 game.png
-size: 2048, 2048
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.35.17
+TileSets/Countryballs/Units/-China
   rotate: false
-  xy: 4, 4
-  size: 1024, 1024
-  orig: 1024, 1024
+  xy: 156, 924
+  size: 114, 84
+  orig: 114, 84
   offset: 0, 0
   index: -1
-
-game2.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
+TileSets/Countryballs/Units/-Persia
+  rotate: false
+  xy: 4, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Archer-Aztecs
+  rotate: false
+  xy: 127, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Archer-Celts
+  rotate: false
+  xy: 278, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Archer-China
+  rotate: false
+  xy: 4, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Archer-Greece
+  rotate: false
+  xy: 126, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Archer-Persia
+  rotate: false
+  xy: 249, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
 TileSets/Countryballs/Units/Archer-Rome
   rotate: false
-  xy: 1036, 1952
+  xy: 400, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Ballista
   rotate: false
-  xy: 1158, 1952
+  xy: 4, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Chu-Ko-Nu-China
+  rotate: false
+  xy: 126, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Civilian-Greece
+  rotate: false
+  xy: 248, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Civilian-Rome-Industrial era
+  rotate: false
+  xy: 371, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Composite Bowman-Aztecs
+  rotate: false
+  xy: 522, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Composite Bowman-Celts
+  rotate: false
+  xy: 4, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Composite Bowman-China
+  rotate: false
+  xy: 126, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Composite Bowman-Greece
+  rotate: false
+  xy: 248, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Composite Bowman-Persia
+  rotate: false
+  xy: 370, 740
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Composite Bowman-Rome
   rotate: false
-  xy: 1280, 1952
+  xy: 493, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Crossbowman-Aztecs
+  rotate: false
+  xy: 644, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Crossbowman-Celts
+  rotate: false
+  xy: 4, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Crossbowman-Greece
+  rotate: false
+  xy: 126, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Crossbowman-Persia
+  rotate: false
+  xy: 248, 556
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Crossbowman-Rome
   rotate: false
-  xy: 1402, 1952
+  xy: 370, 648
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Gatlin Gun-Rome
   rotate: false
-  xy: 1524, 1952
+  xy: 492, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Gatling Gun-Aztecs
+  rotate: false
+  xy: 615, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Gatling Gun-Celts
+  rotate: false
+  xy: 766, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Gatling Gun-China
+  rotate: false
+  xy: 4, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Gatling Gun-Greece
+  rotate: false
+  xy: 126, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Gatling Gun-Persia
+  rotate: false
+  xy: 248, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Great General-China
+  rotate: false
+  xy: 370, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Great Merchant-Celts
+  rotate: false
+  xy: 492, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Great War Infantry-Aztecs
+  rotate: false
+  xy: 614, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Great War Infantry-China
+  rotate: false
+  xy: 737, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Great War Infantry-Rome
   rotate: false
-  xy: 1646, 1952
+  xy: 888, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Hoplite-Greece
+  rotate: false
+  xy: 4, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Infantry-Aztecs
+  rotate: false
+  xy: 126, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Infantry-China
+  rotate: false
+  xy: 248, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Infantry-Greece
+  rotate: false
+  xy: 370, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Infantry-Persia
+  rotate: false
+  xy: 492, 556
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Infantry-Rome
   rotate: false
-  xy: 1768, 1952
+  xy: 614, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Inmortal-Persia
+  rotate: false
+  xy: 736, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Jaguar
+  rotate: false
+  xy: 859, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Legion
   rotate: false
-  xy: 1890, 1952
+  xy: 1010, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Longswordsman-Celts
+  rotate: false
+  xy: 4, 96
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Longswordsman-China
+  rotate: false
+  xy: 126, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Longswordsman-Greece
+  rotate: false
+  xy: 248, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Longswordsman-Persia
+  rotate: false
+  xy: 370, 372
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Longswordsman-Rome
   rotate: false
-  xy: 1036, 1860
+  xy: 492, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Machine Gun-Aztecs
+  rotate: false
+  xy: 614, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Machine Gun-Celts
+  rotate: false
+  xy: 736, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Machine Gun-China
+  rotate: false
+  xy: 858, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Machine Gun-Greece
+  rotate: false
+  xy: 981, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Machine Gun-Persia
+  rotate: false
+  xy: 1132, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Machine Gun-Rome
   rotate: false
-  xy: 1158, 1860
+  xy: 4, 4
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-Aztecs
+  rotate: false
+  xy: 126, 96
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-Celts
+  rotate: false
+  xy: 248, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-China
+  rotate: false
+  xy: 370, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-Greece
+  rotate: false
+  xy: 492, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-Persia
+  rotate: false
+  xy: 614, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-Rome
+  rotate: false
+  xy: 736, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Missionary-Aztecs
+  rotate: false
+  xy: 858, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Missionary-China
+  rotate: false
+  xy: 980, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Missionary-China-Renaissance era
+  rotate: false
+  xy: 1103, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Missionary-Greece
+  rotate: false
+  xy: 1254, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Missionary-Greece-Medieval era
+  rotate: false
+  xy: 126, 4
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Missionary-Greece-Modern era
+  rotate: false
+  xy: 248, 96
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Musketman-Aztecs
+  rotate: false
+  xy: 370, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Musketman-Celts
+  rotate: false
+  xy: 492, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Musketman-China
+  rotate: false
+  xy: 614, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Musketman-Greece
+  rotate: false
+  xy: 736, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Musketman-Persia
+  rotate: false
+  xy: 858, 556
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Musketman-Rome
   rotate: false
-  xy: 1280, 1860
+  xy: 980, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Paratrooper-China
+  rotate: false
+  xy: 1102, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Paratrooper-Greece
+  rotate: false
+  xy: 1225, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Paratrooper-Persia
+  rotate: false
+  xy: 1376, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Paratrooper-Rome
+  rotate: false
+  xy: 248, 4
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Pictish Warrior
+  rotate: false
+  xy: 370, 96
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Pikeman-Aztecs
+  rotate: false
+  xy: 492, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Pikeman-China
+  rotate: false
+  xy: 614, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Pikeman-Greece
+  rotate: false
+  xy: 4, 924
+  size: 144, 84
+  orig: 144, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Pikeman-Persia
+  rotate: false
+  xy: 736, 372
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Pikeman-Rome
   rotate: false
-  xy: 1402, 1860
+  xy: 858, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Rifleman-Celts
+  rotate: false
+  xy: 980, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Rifleman-China
+  rotate: false
+  xy: 1102, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Rifleman-Greece
+  rotate: false
+  xy: 1224, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Rifleman-Persia
+  rotate: false
+  xy: 1347, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Rifleman-Rome
   rotate: false
-  xy: 1524, 1860
+  xy: 1498, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
-TileSets/Countryballs/Units/Rome
+TileSets/Countryballs/Units/Settler-Aztecs
   rotate: false
-  xy: 1402, 1768
-  size: 94, 84
-  orig: 94, 84
+  xy: 370, 4
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Aztecs-Industrial era
+  rotate: false
+  xy: 492, 96
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Celts
+  rotate: false
+  xy: 614, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Celts-Industrial era
+  rotate: false
+  xy: 736, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-China
+  rotate: false
+  xy: 858, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-China-Modern era
+  rotate: false
+  xy: 980, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-China-Renaissance era
+  rotate: false
+  xy: 1102, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Greece
+  rotate: false
+  xy: 1224, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Greece-Classical era
+  rotate: false
+  xy: 1346, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Greece-Modern era
+  rotate: false
+  xy: 1469, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Persia
+  rotate: false
+  xy: 1620, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Persia-Industrial era
+  rotate: false
+  xy: 492, 4
+  size: 114, 84
+  orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Rome
   rotate: false
-  xy: 1646, 1860
+  xy: 614, 96
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Rome-Industrial era
   rotate: false
-  xy: 1768, 1860
+  xy: 736, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Spearman-Aztecs
+  rotate: false
+  xy: 858, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Spearman-China
+  rotate: false
+  xy: 980, 372
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Spearman-Rome
   rotate: false
-  xy: 1890, 1860
+  xy: 1102, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Swordsman-Aztecs
+  rotate: false
+  xy: 1224, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Swordsman-Celts
+  rotate: false
+  xy: 1346, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Swordsman-China
+  rotate: false
+  xy: 1468, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Swordsman-Persia
+  rotate: false
+  xy: 1591, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Warrior-Celts
+  rotate: false
+  xy: 1742, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Warrior-China
+  rotate: false
+  xy: 614, 4
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Warrior-Greece
+  rotate: false
+  xy: 736, 96
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Warrior-Persia
+  rotate: false
+  xy: 858, 188
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Warrior-Rome
   rotate: false
-  xy: 1036, 1768
+  xy: 980, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Aztecs
+  rotate: false
+  xy: 1102, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Aztecs-Industrial era
+  rotate: false
+  xy: 1224, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Celts
+  rotate: false
+  xy: 1346, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Celts-Industrial era
+  rotate: false
+  xy: 1468, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Celts-Medieval era
+  rotate: false
+  xy: 1590, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-China
+  rotate: false
+  xy: 1713, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-China-Industrial era
+  rotate: false
+  xy: 1864, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-China-Modern era
+  rotate: false
+  xy: 736, 4
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-China-Renaissance era
+  rotate: false
+  xy: 858, 96
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Greece
+  rotate: false
+  xy: 980, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Greece-Classical era
+  rotate: false
+  xy: 4, 832
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Greece-Modern era
+  rotate: false
+  xy: 1102, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Persia
+  rotate: false
+  xy: 1224, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Persia-Industrial era
+  rotate: false
+  xy: 1346, 464
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Rome
   rotate: false
-  xy: 1158, 1768
+  xy: 1468, 556
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Rome-Industrial era
   rotate: false
-  xy: 1280, 1768
+  xy: 1590, 648
   size: 114, 84
   orig: 114, 84
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Archer-Aztecs
-  rotate: false
-  xy: 1504, 1788
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Aztecs
-  rotate: false
-  xy: 1576, 1788
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Composite Bowman-Aztecs
-  rotate: false
-  xy: 1648, 1788
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Crossbowman-Aztecs
-  rotate: false
-  xy: 1720, 1788
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Gatling Gun-Aztecs
-  rotate: false
-  xy: 1792, 1788
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Great War Infantry-Aztecs
-  rotate: false
-  xy: 1864, 1788
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Infantry-Aztecs
-  rotate: false
-  xy: 1936, 1788
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Jaguar
-  rotate: false
-  xy: 1504, 1716
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Machine Gun-Aztecs
-  rotate: false
-  xy: 1576, 1716
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Musketman-Aztecs
-  rotate: false
-  xy: 1648, 1716
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Pikeman-Aztecs
-  rotate: false
-  xy: 1720, 1716
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Rome-Industrial era
-  rotate: false
-  xy: 1792, 1716
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Settler-Aztecs
-  rotate: false
-  xy: 1864, 1716
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Settler-Aztecs-Industrial era
-  rotate: false
-  xy: 1936, 1716
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Spearman-Aztecs
-  rotate: false
-  xy: 1036, 1696
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Swordsman-Aztecs
-  rotate: false
-  xy: 1108, 1696
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-28T19.36.58
-  rotate: false
-  xy: 1180, 1696
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-28T19.47.52
-  rotate: false
-  xy: 1252, 1696
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-29T14.38.57
-  rotate: false
-  xy: 1324, 1696
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-29T14.40.44
-  rotate: false
-  xy: 1396, 1696
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.12.12
-  rotate: false
-  xy: 1468, 1644
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.12.40
-  rotate: false
-  xy: 1540, 1644
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.18.28
-  rotate: false
-  xy: 1612, 1644
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.25.51
-  rotate: false
-  xy: 1684, 1644
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.30.53
-  rotate: false
-  xy: 1756, 1644
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.31.21
-  rotate: false
-  xy: 1828, 1644
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.32.53
-  rotate: false
-  xy: 1900, 1644
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.34.01
-  rotate: false
-  xy: 1972, 1644
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.35.45
-  rotate: false
-  xy: 1036, 1624
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.36.11
-  rotate: false
-  xy: 1108, 1624
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.36.33
-  rotate: false
-  xy: 1180, 1624
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.39.15
-  rotate: false
-  xy: 1252, 1624
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.46.32
-  rotate: false
-  xy: 1324, 1624
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.47.12
-  rotate: false
-  xy: 1396, 1624
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.48.25
-  rotate: false
-  xy: 1468, 1572
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.48.30
-  rotate: false
-  xy: 1540, 1572
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.48.42
-  rotate: false
-  xy: 1612, 1572
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.49.02
-  rotate: false
-  xy: 1684, 1572
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-11-30T09.49.34
-  rotate: false
-  xy: 1756, 1572
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.32.43
-  rotate: false
-  xy: 1828, 1572
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.38.18
-  rotate: false
-  xy: 1900, 1572
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.38.31
-  rotate: false
-  xy: 1972, 1572
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.41.07
-  rotate: false
-  xy: 1036, 1552
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.43.39
-  rotate: false
-  xy: 1108, 1552
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.43.56
-  rotate: false
-  xy: 1180, 1552
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.44.21
-  rotate: false
-  xy: 1252, 1552
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.48.37
-  rotate: false
-  xy: 1324, 1552
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.49.04
-  rotate: false
-  xy: 1396, 1552
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.50.22
-  rotate: false
-  xy: 1468, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.50.49
-  rotate: false
-  xy: 1540, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.51.17
-  rotate: false
-  xy: 1612, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.53.21
-  rotate: false
-  xy: 1684, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.53.39
-  rotate: false
-  xy: 1756, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.55.25
-  rotate: false
-  xy: 1756, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.53.53
-  rotate: false
-  xy: 1828, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.54.01
-  rotate: false
-  xy: 1900, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.54.24
-  rotate: false
-  xy: 1972, 1500
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.54.31
-  rotate: false
-  xy: 1036, 1480
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.55.09
-  rotate: false
-  xy: 1108, 1480
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.55.42
-  rotate: false
-  xy: 1180, 1480
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.58.52
-  rotate: false
-  xy: 1252, 1480
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.59.08
-  rotate: false
-  xy: 1324, 1480
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T06.59.41
-  rotate: false
-  xy: 1396, 1480
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.12.44
-  rotate: false
-  xy: 1468, 1428
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.12.58
-  rotate: false
-  xy: 1540, 1428
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.13.13
-  rotate: false
-  xy: 1612, 1428
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.13.22
-  rotate: false
-  xy: 1684, 1428
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.18.49
-  rotate: false
-  xy: 1756, 1428
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.19.20
-  rotate: false
-  xy: 1828, 1428
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.26.08
-  rotate: false
-  xy: 1900, 1428
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.26.45
-  rotate: false
-  xy: 1972, 1428
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.27.30
-  rotate: false
-  xy: 1036, 1408
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.30.16
-  rotate: false
-  xy: 1108, 1408
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.30.26
-  rotate: false
-  xy: 1180, 1408
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.31.08
-  rotate: false
-  xy: 1252, 1408
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.31.25
-  rotate: false
-  xy: 1324, 1408
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.32.08
-  rotate: false
-  xy: 1396, 1408
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.33.12
-  rotate: false
-  xy: 1468, 1356
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.33.44
-  rotate: false
-  xy: 1540, 1356
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.34.05
-  rotate: false
-  xy: 1612, 1356
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.35.12
-  rotate: false
-  xy: 1684, 1356
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.35.32
-  rotate: false
-  xy: 1756, 1356
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.35.55
-  rotate: false
-  xy: 1828, 1356
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.40.14
-  rotate: false
-  xy: 1900, 1356
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.40.44
-  rotate: false
-  xy: 1972, 1356
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.41.08
-  rotate: false
-  xy: 1036, 1336
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.41.20
-  rotate: false
-  xy: 1108, 1336
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.41.41
-  rotate: false
-  xy: 1180, 1336
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.41.53
-  rotate: false
-  xy: 1252, 1336
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.42.01
-  rotate: false
-  xy: 1324, 1336
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-01T08.42.15
-  rotate: false
-  xy: 1396, 1336
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T11.50.23
-  rotate: false
-  xy: 1468, 1284
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T11.50.46
-  rotate: false
-  xy: 1540, 1284
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T11.51.01
-  rotate: false
-  xy: 1612, 1284
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.00.04
-  rotate: false
-  xy: 1684, 1284
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.00.19
-  rotate: false
-  xy: 1756, 1284
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.00.54
-  rotate: false
-  xy: 1828, 1284
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.03.41
-  rotate: false
-  xy: 1900, 1284
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.05.08
-  rotate: false
-  xy: 1972, 1284
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.05.23
-  rotate: false
-  xy: 1036, 1264
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.05.42
-  rotate: false
-  xy: 1108, 1264
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.05.55
-  rotate: false
-  xy: 1180, 1264
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.06.42
-  rotate: false
-  xy: 1252, 1264
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.06.58
-  rotate: false
-  xy: 1324, 1264
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.07.24
-  rotate: false
-  xy: 1396, 1264
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.08.12
-  rotate: false
-  xy: 1468, 1212
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.09.14
-  rotate: false
-  xy: 1540, 1212
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.12.39
-  rotate: false
-  xy: 1612, 1212
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.12.55
-  rotate: false
-  xy: 1684, 1212
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.13.13
-  rotate: false
-  xy: 1756, 1212
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.13.20
-  rotate: false
-  xy: 1828, 1212
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.13.55
-  rotate: false
-  xy: 1900, 1212
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.14.18
-  rotate: false
-  xy: 1972, 1212
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.14.22
-  rotate: false
-  xy: 1036, 1192
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-02T12.14.27
-  rotate: false
-  xy: 1108, 1192
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.01.11
-  rotate: false
-  xy: 1180, 1192
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.03.17
-  rotate: false
-  xy: 1252, 1192
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.03.35
-  rotate: false
-  xy: 1324, 1192
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.03.58
-  rotate: false
-  xy: 1396, 1192
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.04.24
-  rotate: false
-  xy: 1468, 1140
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.06.27
-  rotate: false
-  xy: 1540, 1140
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.06.48
-  rotate: false
-  xy: 1612, 1140
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.07.19
-  rotate: false
-  xy: 1684, 1140
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.07.39
-  rotate: false
-  xy: 1756, 1140
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.10.58
-  rotate: false
-  xy: 1828, 1140
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.11.28
-  rotate: false
-  xy: 1900, 1140
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.11.42
-  rotate: false
-  xy: 1972, 1140
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.12.30
-  rotate: false
-  xy: 1036, 1120
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.12.45
-  rotate: false
-  xy: 1108, 1120
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.12.54
-  rotate: false
-  xy: 1180, 1120
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.16.44
-  rotate: false
-  xy: 1252, 1120
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.17.08
-  rotate: false
-  xy: 1324, 1120
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.17.30
-  rotate: false
-  xy: 1396, 1120
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.18.40
-  rotate: false
-  xy: 1468, 1068
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-04T09.19.17
-  rotate: false
-  xy: 1540, 1068
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T09.27.14
-  rotate: false
-  xy: 1612, 1068
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T09.27.26
-  rotate: false
-  xy: 1684, 1068
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T09.34.19
-  rotate: false
-  xy: 1756, 1068
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T09.34.34
-  rotate: false
-  xy: 1828, 1068
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T09.35.27
-  rotate: false
-  xy: 1900, 1068
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T09.35.45
-  rotate: false
-  xy: 1972, 1068
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T09.36.03
-  rotate: false
-  xy: 1036, 1048
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T09.36.37
-  rotate: false
-  xy: 1108, 1048
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.01.54
-  rotate: false
-  xy: 1180, 1048
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.02.06
-  rotate: false
-  xy: 1252, 1048
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.11.16
-  rotate: false
-  xy: 1324, 1048
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.11.36
-  rotate: false
-  xy: 1396, 1048
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.11.43
-  rotate: false
-  xy: 1468, 996
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.13.36
-  rotate: false
-  xy: 1540, 996
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.14.06
-  rotate: false
-  xy: 1612, 996
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.14.25
-  rotate: false
-  xy: 1684, 996
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.14.29
-  rotate: false
-  xy: 1756, 996
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.15.26
-  rotate: false
-  xy: 1828, 996
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.15.41
-  rotate: false
-  xy: 1900, 996
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.15.47
-  rotate: false
-  xy: 1972, 996
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T10.15.53
-  rotate: false
-  xy: 1036, 976
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.15.44
-  rotate: false
-  xy: 1108, 976
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.16.30
-  rotate: false
-  xy: 1180, 976
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.17.14
-  rotate: false
-  xy: 1252, 976
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.18.15
-  rotate: false
-  xy: 1324, 976
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.24.58
-  rotate: false
-  xy: 1396, 976
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.26.08
-  rotate: false
-  xy: 4, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.26.27
-  rotate: false
-  xy: 76, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.27.00
-  rotate: false
-  xy: 148, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.27.29
-  rotate: false
-  xy: 220, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.27.51
-  rotate: false
-  xy: 292, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.28.27
-  rotate: false
-  xy: 364, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.30.51
-  rotate: false
-  xy: 436, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.31.19
-  rotate: false
-  xy: 508, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.31.57
-  rotate: false
-  xy: 580, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.32.16
-  rotate: false
-  xy: 652, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.33.13
-  rotate: false
-  xy: 724, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.33.50
-  rotate: false
-  xy: 796, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.34.00
-  rotate: false
-  xy: 868, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T11.34.19
-  rotate: false
-  xy: 940, 940
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.49.35
-  rotate: false
-  xy: 1468, 924
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.50.20
-  rotate: false
-  xy: 1540, 924
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.50.32
-  rotate: false
-  xy: 1612, 924
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.50.49
-  rotate: false
-  xy: 1684, 924
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.54.55
-  rotate: false
-  xy: 1756, 924
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.55.20
-  rotate: false
-  xy: 1828, 924
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.57.07
-  rotate: false
-  xy: 1900, 924
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.57.32
-  rotate: false
-  xy: 1972, 924
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.58.52
-  rotate: false
-  xy: 1012, 904
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.59.25
-  rotate: false
-  xy: 1084, 904
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T20.59.42
-  rotate: false
-  xy: 1156, 904
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.00.13
-  rotate: false
-  xy: 1228, 904
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.00.32
-  rotate: false
-  xy: 1300, 904
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.05.05
-  rotate: false
-  xy: 1372, 904
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.07.44
-  rotate: false
-  xy: 4, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.08.02
-  rotate: false
-  xy: 76, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.08.43
-  rotate: false
-  xy: 148, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.09.32
-  rotate: false
-  xy: 220, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.09.49
-  rotate: false
-  xy: 220, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.11.36
-  rotate: false
-  xy: 292, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.12.51
-  rotate: false
-  xy: 364, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.13.30
-  rotate: false
-  xy: 436, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.13.39
-  rotate: false
-  xy: 508, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.13.45
-  rotate: false
-  xy: 580, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.14.29
-  rotate: false
-  xy: 652, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.14.44
-  rotate: false
-  xy: 724, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.15.35
-  rotate: false
-  xy: 796, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.15.55
-  rotate: false
-  xy: 868, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.16.20
-  rotate: false
-  xy: 940, 868
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.16.43
-  rotate: false
-  xy: 1444, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T21.17.03
-  rotate: false
-  xy: 1516, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-05T22.00.21
-  rotate: false
-  xy: 1588, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.28.34
-  rotate: false
-  xy: 1660, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.33.32
-  rotate: false
-  xy: 1660, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.36.09
-  rotate: false
-  xy: 1732, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.36.35
-  rotate: false
-  xy: 1804, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.36.59
-  rotate: false
-  xy: 1876, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.37.25
-  rotate: false
-  xy: 1948, 852
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.37.45
-  rotate: false
-  xy: 1012, 832
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.38.06
-  rotate: false
-  xy: 1084, 832
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.38.26
-  rotate: false
-  xy: 1156, 832
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.38.33
-  rotate: false
-  xy: 1228, 832
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.39.06
-  rotate: false
-  xy: 1300, 832
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.39.32
-  rotate: false
-  xy: 1372, 832
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.40.02
-  rotate: false
-  xy: 4, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.40.08
-  rotate: false
-  xy: 76, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.41.42
-  rotate: false
-  xy: 148, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.42.06
-  rotate: false
-  xy: 220, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.42.15
-  rotate: false
-  xy: 292, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.42.32
-  rotate: false
-  xy: 364, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.43.01
-  rotate: false
-  xy: 436, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.43.07
-  rotate: false
-  xy: 508, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.43.25
-  rotate: false
-  xy: 580, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.43.55
-  rotate: false
-  xy: 652, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.44.00
-  rotate: false
-  xy: 724, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.44.17
-  rotate: false
-  xy: 796, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.44.27
-  rotate: false
-  xy: 868, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-06T08.45.06
-  rotate: false
-  xy: 940, 796
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.17.44
-  rotate: false
-  xy: 1444, 780
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.18.13
-  rotate: false
-  xy: 1516, 780
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.21.07
-  rotate: false
-  xy: 1588, 780
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.21.31
-  rotate: false
-  xy: 1660, 780
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.22.13
-  rotate: false
-  xy: 1732, 780
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.22.40
-  rotate: false
-  xy: 1804, 780
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.22.48
-  rotate: false
-  xy: 1876, 780
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.23.17
-  rotate: false
-  xy: 1948, 780
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.23.49
-  rotate: false
-  xy: 1012, 760
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.24.07
-  rotate: false
-  xy: 1084, 760
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.24.26
-  rotate: false
-  xy: 1156, 760
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.26.53
-  rotate: false
-  xy: 1228, 760
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.27.23
-  rotate: false
-  xy: 1228, 760
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.27.18
-  rotate: false
-  xy: 1300, 760
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.27.32
-  rotate: false
-  xy: 1372, 760
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.27.39
-  rotate: false
-  xy: 4, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.28.12
-  rotate: false
-  xy: 76, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.29.30
-  rotate: false
-  xy: 148, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.29.41
-  rotate: false
-  xy: 220, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.30.32
-  rotate: false
-  xy: 292, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.30.37
-  rotate: false
-  xy: 364, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.31.18
-  rotate: false
-  xy: 436, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.31.35
-  rotate: false
-  xy: 436, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-07T08.31.46
-  rotate: false
-  xy: 508, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.01.14
-  rotate: false
-  xy: 580, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.01.43
-  rotate: false
-  xy: 652, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.07.17
-  rotate: false
-  xy: 724, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.07.44
-  rotate: false
-  xy: 796, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.08.06
-  rotate: false
-  xy: 868, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.08.18
-  rotate: false
-  xy: 940, 724
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.08.40
-  rotate: false
-  xy: 1444, 708
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.09.07
-  rotate: false
-  xy: 1516, 708
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.09.48
-  rotate: false
-  xy: 1588, 708
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.10.11
-  rotate: false
-  xy: 1660, 708
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.10.26
-  rotate: false
-  xy: 1732, 708
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.11.03
-  rotate: false
-  xy: 1804, 708
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.11.12
-  rotate: false
-  xy: 1876, 708
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.16.10
-  rotate: false
-  xy: 1948, 708
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.16.44
-  rotate: false
-  xy: 1012, 688
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.16.51
-  rotate: false
-  xy: 1084, 688
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.16.55
-  rotate: false
-  xy: 1156, 688
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.17.05
-  rotate: false
-  xy: 1228, 688
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.21.34
-  rotate: false
-  xy: 1300, 688
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.21.42
-  rotate: false
-  xy: 1372, 688
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.29.29
-  rotate: false
-  xy: 4, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.29.51
-  rotate: false
-  xy: 76, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.30.39
-  rotate: false
-  xy: 148, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.30.47
-  rotate: false
-  xy: 220, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.31.03
-  rotate: false
-  xy: 292, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.31.10
-  rotate: false
-  xy: 364, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.31.28
-  rotate: false
-  xy: 436, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.33.02
-  rotate: false
-  xy: 508, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.33.24
-  rotate: false
-  xy: 580, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.33.38
-  rotate: false
-  xy: 652, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.33.46
-  rotate: false
-  xy: 724, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.33.52
-  rotate: false
-  xy: 796, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.34.09
-  rotate: false
-  xy: 868, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.34.40
-  rotate: false
-  xy: 940, 652
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.34.44
-  rotate: false
-  xy: 1444, 636
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.34.50
-  rotate: false
-  xy: 1516, 636
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-11T08.35.32
-  rotate: false
-  xy: 1588, 636
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.08.57
-  rotate: false
-  xy: 1660, 636
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.09.07
-  rotate: false
-  xy: 1732, 636
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.09.33
-  rotate: false
-  xy: 1804, 636
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.09.44
-  rotate: false
-  xy: 1876, 636
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.09.51
-  rotate: false
-  xy: 1948, 636
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.10.10
-  rotate: false
-  xy: 1012, 616
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.10.16
-  rotate: false
-  xy: 1084, 616
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.10.27
-  rotate: false
-  xy: 1156, 616
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.10.46
-  rotate: false
-  xy: 1228, 616
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.10.55
-  rotate: false
-  xy: 1300, 616
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.11.23
-  rotate: false
-  xy: 1372, 616
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.11.56
-  rotate: false
-  xy: 4, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.13.10
-  rotate: false
-  xy: 76, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.13.59
-  rotate: false
-  xy: 148, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.14.12
-  rotate: false
-  xy: 220, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.14.36
-  rotate: false
-  xy: 292, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.14.48
-  rotate: false
-  xy: 364, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.14.58
-  rotate: false
-  xy: 436, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-13T14.15.20
-  rotate: false
-  xy: 508, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.07.59
-  rotate: false
-  xy: 580, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.08.33
-  rotate: false
-  xy: 652, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.16.31
-  rotate: false
-  xy: 724, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.17.01
-  rotate: false
-  xy: 796, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.17.23
-  rotate: false
-  xy: 868, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.17.45
-  rotate: false
-  xy: 940, 580
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.18.04
-  rotate: false
-  xy: 1444, 564
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.18.12
-  rotate: false
-  xy: 1516, 564
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.18.58
-  rotate: false
-  xy: 1588, 564
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.19.11
-  rotate: false
-  xy: 1660, 564
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.26.31
-  rotate: false
-  xy: 1732, 564
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.27.25
-  rotate: false
-  xy: 1804, 564
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.27.39
-  rotate: false
-  xy: 1876, 564
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.27.46
-  rotate: false
-  xy: 1948, 564
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.27.55
-  rotate: false
-  xy: 1012, 544
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.29.49
-  rotate: false
-  xy: 1084, 544
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.30.56
-  rotate: false
-  xy: 1156, 544
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.34.43
-  rotate: false
-  xy: 1228, 544
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.35.14
-  rotate: false
-  xy: 1300, 544
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.35.18
-  rotate: false
-  xy: 1372, 544
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.35.54
-  rotate: false
-  xy: 4, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-14T08.36.16
-  rotate: false
-  xy: 76, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.12.56
-  rotate: false
-  xy: 148, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.13.24
-  rotate: false
-  xy: 220, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.13.53
-  rotate: false
-  xy: 292, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.21.33
-  rotate: false
-  xy: 364, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.21.56
-  rotate: false
-  xy: 436, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.22.17
-  rotate: false
-  xy: 508, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.22.43
-  rotate: false
-  xy: 580, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.22.48
-  rotate: false
-  xy: 652, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.22.54
-  rotate: false
-  xy: 724, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.25.57
-  rotate: false
-  xy: 796, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.26.17
-  rotate: false
-  xy: 868, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.26.22
-  rotate: false
-  xy: 940, 508
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.26.31
-  rotate: false
-  xy: 1444, 492
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.27.17
-  rotate: false
-  xy: 1516, 492
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.27.23
-  rotate: false
-  xy: 1588, 492
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.27.41
-  rotate: false
-  xy: 1660, 492
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.27.46
-  rotate: false
-  xy: 1732, 492
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.29.23
-  rotate: false
-  xy: 1804, 492
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.30.04
-  rotate: false
-  xy: 1876, 492
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.30.37
-  rotate: false
-  xy: 1948, 492
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.32.42
-  rotate: false
-  xy: 1012, 472
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.34.25
-  rotate: false
-  xy: 1084, 472
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.34.49
-  rotate: false
-  xy: 1156, 472
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.34.58
-  rotate: false
-  xy: 1228, 472
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.35.07
-  rotate: false
-  xy: 1300, 472
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.37.04
-  rotate: false
-  xy: 1372, 472
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.37.33
-  rotate: false
-  xy: 4, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.38.20
-  rotate: false
-  xy: 4, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.37.44
-  rotate: false
-  xy: 76, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.37.52
-  rotate: false
-  xy: 148, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.38.13
-  rotate: false
-  xy: 220, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-15T08.38.25
-  rotate: false
-  xy: 292, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.07.35
-  rotate: false
-  xy: 364, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.07.50
-  rotate: false
-  xy: 436, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.08.24
-  rotate: false
-  xy: 508, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.08.54
-  rotate: false
-  xy: 580, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.09.28
-  rotate: false
-  xy: 652, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.13.00
-  rotate: false
-  xy: 724, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.13.33
-  rotate: false
-  xy: 796, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.13.54
-  rotate: false
-  xy: 868, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.15.02
-  rotate: false
-  xy: 940, 436
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.15.27
-  rotate: false
-  xy: 1444, 420
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.15.56
-  rotate: false
-  xy: 1516, 420
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.16.04
-  rotate: false
-  xy: 1588, 420
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.21.57
-  rotate: false
-  xy: 1660, 420
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.25.20
-  rotate: false
-  xy: 1732, 420
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.25.46
-  rotate: false
-  xy: 1804, 420
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.25.52
-  rotate: false
-  xy: 1876, 420
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.26.06
-  rotate: false
-  xy: 1948, 420
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.26.40
-  rotate: false
-  xy: 1012, 400
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.27.16
-  rotate: false
-  xy: 1084, 400
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.27.40
-  rotate: false
-  xy: 1156, 400
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.27.51
-  rotate: false
-  xy: 1228, 400
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.29.05
-  rotate: false
-  xy: 1300, 400
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.29.38
-  rotate: false
-  xy: 1372, 400
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.30.11
-  rotate: false
-  xy: 4, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.30.18
-  rotate: false
-  xy: 76, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.30.41
-  rotate: false
-  xy: 148, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.34.50
-  rotate: false
-  xy: 220, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.35.15
-  rotate: false
-  xy: 292, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.36.00
-  rotate: false
-  xy: 364, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.36.31
-  rotate: false
-  xy: 436, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.36.57
-  rotate: false
-  xy: 508, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.37.19
-  rotate: false
-  xy: 580, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.41.39
-  rotate: false
-  xy: 652, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.42.22
-  rotate: false
-  xy: 724, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.42.53
-  rotate: false
-  xy: 796, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.43.18
-  rotate: false
-  xy: 868, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.49.17
-  rotate: false
-  xy: 940, 364
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.51.31
-  rotate: false
-  xy: 1444, 348
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.52.05
-  rotate: false
-  xy: 1516, 348
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.52.14
-  rotate: false
-  xy: 1588, 348
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.52.23
-  rotate: false
-  xy: 1660, 348
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.52.54
-  rotate: false
-  xy: 1732, 348
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.53.13
-  rotate: false
-  xy: 1804, 348
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.53.25
-  rotate: false
-  xy: 1876, 348
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.53.51
-  rotate: false
-  xy: 1948, 348
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.54.12
-  rotate: false
-  xy: 1012, 328
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.54.35
-  rotate: false
-  xy: 1084, 328
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.54.39
-  rotate: false
-  xy: 1156, 328
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-20T08.55.10
-  rotate: false
-  xy: 1228, 328
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.47.27
-  rotate: false
-  xy: 1300, 328
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.48.19
-  rotate: false
-  xy: 1372, 328
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.48.52
-  rotate: false
-  xy: 4, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.49.01
-  rotate: false
-  xy: 76, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.49.06
-  rotate: false
-  xy: 148, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.49.28
-  rotate: false
-  xy: 220, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.54.37
-  rotate: false
-  xy: 292, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.55.01
-  rotate: false
-  xy: 364, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.55.25
-  rotate: false
-  xy: 436, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.55.46
-  rotate: false
-  xy: 508, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.56.07
-  rotate: false
-  xy: 580, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.56.31
-  rotate: false
-  xy: 652, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.57.04
-  rotate: false
-  xy: 724, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.59.05
-  rotate: false
-  xy: 796, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.59.29
-  rotate: false
-  xy: 868, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.59.34
-  rotate: false
-  xy: 940, 292
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-25T09.59.47
-  rotate: false
-  xy: 1444, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.12.38
-  rotate: false
-  xy: 1516, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.13.16
-  rotate: false
-  xy: 1588, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.13.24
-  rotate: false
-  xy: 1660, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.13.47
-  rotate: false
-  xy: 1732, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.14.11
-  rotate: false
-  xy: 1804, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.15.35
-  rotate: false
-  xy: 1876, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.17.14
-  rotate: false
-  xy: 1876, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.16.42
-  rotate: false
-  xy: 1948, 276
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.16.49
-  rotate: false
-  xy: 1012, 256
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.16.59
-  rotate: false
-  xy: 1084, 256
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.17.08
-  rotate: false
-  xy: 1156, 256
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.20.44
-  rotate: false
-  xy: 1228, 256
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.21.27
-  rotate: false
-  xy: 1300, 256
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.21.46
-  rotate: false
-  xy: 1372, 256
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.22.01
-  rotate: false
-  xy: 4, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.22.24
-  rotate: false
-  xy: 76, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.22.28
-  rotate: false
-  xy: 148, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.22.42
-  rotate: false
-  xy: 220, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.23.17
-  rotate: false
-  xy: 292, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.24.59
-  rotate: false
-  xy: 364, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.25.11
-  rotate: false
-  xy: 436, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.25.39
-  rotate: false
-  xy: 508, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T00.25.46
-  rotate: false
-  xy: 580, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.36.47
-  rotate: false
-  xy: 652, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.38.05
-  rotate: false
-  xy: 724, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.38.47
-  rotate: false
-  xy: 796, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.39.18
-  rotate: false
-  xy: 868, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.39.43
-  rotate: false
-  xy: 940, 220
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.39.48
-  rotate: false
-  xy: 1444, 204
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.40.16
-  rotate: false
-  xy: 1516, 204
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.40.46
-  rotate: false
-  xy: 1588, 204
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.41.18
-  rotate: false
-  xy: 1660, 204
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.41.43
-  rotate: false
-  xy: 1732, 204
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.41.51
-  rotate: false
-  xy: 1804, 204
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.41.55
-  rotate: false
-  xy: 1876, 204
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.42.04
-  rotate: false
-  xy: 1948, 204
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.42.22
-  rotate: false
-  xy: 1012, 184
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.42.57
-  rotate: false
-  xy: 1084, 184
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-27T12.43.27
-  rotate: false
-  xy: 1156, 184
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.13.23
-  rotate: false
-  xy: 1228, 184
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.21.37
-  rotate: false
-  xy: 1300, 184
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.22.07
-  rotate: false
-  xy: 1372, 184
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.22.13
-  rotate: false
-  xy: 4, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.22.38
-  rotate: false
-  xy: 76, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.23.18
-  rotate: false
-  xy: 148, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.23.50
-  rotate: false
-  xy: 220, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.26.12
-  rotate: false
-  xy: 292, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.26.41
-  rotate: false
-  xy: 364, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.26.47
-  rotate: false
-  xy: 436, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.27.16
-  rotate: false
-  xy: 508, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.29.41
-  rotate: false
-  xy: 580, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.30.02
-  rotate: false
-  xy: 652, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.30.10
-  rotate: false
-  xy: 724, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.47.06
-  rotate: false
-  xy: 796, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.48.45
-  rotate: false
-  xy: 868, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.49.46
-  rotate: false
-  xy: 940, 148
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.50.10
-  rotate: false
-  xy: 1444, 132
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T09.50.15
-  rotate: false
-  xy: 1516, 132
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.27.54
-  rotate: false
-  xy: 1588, 132
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.28.19
-  rotate: false
-  xy: 1660, 132
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.28.28
-  rotate: false
-  xy: 1732, 132
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.29.02
-  rotate: false
-  xy: 1804, 132
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.29.24
-  rotate: false
-  xy: 1876, 132
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.29.52
-  rotate: false
-  xy: 1948, 132
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.30.03
-  rotate: false
-  xy: 1012, 112
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.30.31
-  rotate: false
-  xy: 1084, 112
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.30.52
-  rotate: false
-  xy: 1156, 112
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.31.19
-  rotate: false
-  xy: 1228, 112
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.35.52
-  rotate: false
-  xy: 1300, 112
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.36.26
-  rotate: false
-  xy: 1372, 112
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.36.32
-  rotate: false
-  xy: 4, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.36.38
-  rotate: false
-  xy: 76, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.36.50
-  rotate: false
-  xy: 148, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.37.09
-  rotate: false
-  xy: 220, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.37.17
-  rotate: false
-  xy: 292, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.38.00
-  rotate: false
-  xy: 364, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.40.12
-  rotate: false
-  xy: 436, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.40.35
-  rotate: false
-  xy: 508, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.40.39
-  rotate: false
-  xy: 580, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.40.51
-  rotate: false
-  xy: 652, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.41.07
-  rotate: false
-  xy: 4, 1012
-  size: 1024, 1024
-  orig: 1024, 1024
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.41.17
-  rotate: false
-  xy: 724, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.41.33
-  rotate: false
-  xy: 796, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.41.41
-  rotate: false
-  xy: 868, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.42.02
-  rotate: false
-  xy: 940, 76
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.42.08
-  rotate: false
-  xy: 1444, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T15.42.35
-  rotate: false
-  xy: 1516, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.38.30
-  rotate: false
-  xy: 1588, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.39.00
-  rotate: false
-  xy: 1660, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.39.12
-  rotate: false
-  xy: 1732, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.39.27
-  rotate: false
-  xy: 1804, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.39.36
-  rotate: false
-  xy: 1876, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.39.51
-  rotate: false
-  xy: 1948, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.40.12
-  rotate: false
-  xy: 1012, 40
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.40.25
-  rotate: false
-  xy: 1084, 40
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.40.30
-  rotate: false
-  xy: 1156, 40
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.43.07
-  rotate: false
-  xy: 1228, 40
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.43.45
-  rotate: false
-  xy: 1300, 40
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.43.59
-  rotate: false
-  xy: 1372, 40
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.44.10
-  rotate: false
-  xy: 4, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.44.20
-  rotate: false
-  xy: 76, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-28T19.44.38
-  rotate: false
-  xy: 148, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T20.58.22
-  rotate: false
-  xy: 220, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T20.58.32
-  rotate: false
-  xy: 292, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T20.58.36
-  rotate: false
-  xy: 364, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T20.58.51
-  rotate: false
-  xy: 436, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T20.59.01
-  rotate: false
-  xy: 508, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.08.28
-  rotate: false
-  xy: 580, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.08.48
-  rotate: false
-  xy: 652, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.09.08
-  rotate: false
-  xy: 724, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.09.47
-  rotate: false
-  xy: 796, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.11.11
-  rotate: false
-  xy: 868, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.11.41
-  rotate: false
-  xy: 940, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-
-game3.png
-size: 2048, 128
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.11.54
-  rotate: false
-  xy: 4, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.12.47
-  rotate: false
-  xy: 76, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.13.17
-  rotate: false
-  xy: 148, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.13.45
-  rotate: false
-  xy: 220, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.14.21
-  rotate: false
-  xy: 292, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.14.36
-  rotate: false
-  xy: 364, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2023-12-31T21.14.44
-  rotate: false
-  xy: 436, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.38.34
-  rotate: false
-  xy: 508, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.38.50
-  rotate: false
-  xy: 580, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.38.56
-  rotate: false
-  xy: 652, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.39.02
-  rotate: false
-  xy: 724, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.39.21
-  rotate: false
-  xy: 796, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.39.37
-  rotate: false
-  xy: 868, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.40.01
-  rotate: false
-  xy: 940, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.40.14
-  rotate: false
-  xy: 1012, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.40.29
-  rotate: false
-  xy: 1084, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.40.47
-  rotate: false
-  xy: 1156, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.49.46
-  rotate: false
-  xy: 1228, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.50.59
-  rotate: false
-  xy: 1300, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.51.24
-  rotate: false
-  xy: 1372, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.51.54
-  rotate: false
-  xy: 1444, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Untitled 11-28-2023 10-19-34 2024-01-01T08.52.11
-  rotate: false
-  xy: 1516, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Worker-Aztecs
-  rotate: false
-  xy: 1588, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Countryballs/Unitsbase/Worker-Aztecs-Industrial era
-  rotate: false
-  xy: 1660, 4
-  size: 64, 64
-  orig: 64, 64
   offset: 0, 0
   index: -1
