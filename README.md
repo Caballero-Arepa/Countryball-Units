@@ -1,2 +1,4 @@
 # Countryball-Units
-Turn all the unit sprites to country balls. Artwork made by @Basil at Discord.
+Countryball unit sprites, all made by Basil on the Discord server.
+
+Style and artistic choices made by him, not subject to change. (Sorry modern Germany)
