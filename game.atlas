@@ -1,908 +1,1293 @@
 
 game.png
-size: 2048, 1024
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/Countryballs/Units/-China
   rotate: false
-  xy: 156, 924
+  xy: 156, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/-Persia
   rotate: false
-  xy: 4, 740
+  xy: 4, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Archer-Aztecs
   rotate: false
-  xy: 127, 832
+  xy: 127, 1568
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Archer-Celts
   rotate: false
-  xy: 278, 924
+  xy: 278, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Archer-China
   rotate: false
-  xy: 4, 648
+  xy: 4, 1384
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Archer-Denmark
+  rotate: false
+  xy: 126, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Archer-Greece
   rotate: false
-  xy: 126, 740
+  xy: 249, 1568
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Archer-India
+  rotate: false
+  xy: 400, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Archer-Persia
   rotate: false
-  xy: 249, 832
+  xy: 4, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Archer-Rome
   rotate: false
-  xy: 400, 924
+  xy: 126, 1384
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Archer-Spain
+  rotate: false
+  xy: 248, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Ballista
   rotate: false
-  xy: 4, 556
+  xy: 371, 1568
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Berserker
+  rotate: false
+  xy: 522, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Chu-Ko-Nu-China
   rotate: false
-  xy: 126, 648
+  xy: 4, 1200
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Civilian-Greece
   rotate: false
-  xy: 248, 740
+  xy: 126, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Civilian-Rome-Industrial era
   rotate: false
-  xy: 371, 832
+  xy: 248, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Composite Bowman-Aztecs
   rotate: false
-  xy: 522, 924
+  xy: 370, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Composite Bowman-Celts
   rotate: false
-  xy: 4, 464
+  xy: 493, 1568
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Composite Bowman-China
   rotate: false
-  xy: 126, 556
+  xy: 644, 1660
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Composite Bowman-Denmark
+  rotate: false
+  xy: 4, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Composite Bowman-Greece
   rotate: false
-  xy: 248, 648
+  xy: 126, 1200
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Composite Bowman-India
+  rotate: false
+  xy: 248, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Composite Bowman-Persia
   rotate: false
-  xy: 370, 740
+  xy: 370, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Composite Bowman-Rome
   rotate: false
-  xy: 493, 832
+  xy: 492, 1476
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Composite Bowman-Spain
+  rotate: false
+  xy: 615, 1568
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Crossbowman-Aztecs
   rotate: false
-  xy: 644, 924
+  xy: 766, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Crossbowman-Celts
   rotate: false
-  xy: 4, 372
+  xy: 4, 1016
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Crossbowman-Denmark
+  rotate: false
+  xy: 126, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Crossbowman-Greece
   rotate: false
-  xy: 126, 464
+  xy: 248, 1200
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Crossbowman-India
+  rotate: false
+  xy: 370, 1292
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Crossbowman-India-Renaissance era
+  rotate: false
+  xy: 492, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Crossbowman-Persia
   rotate: false
-  xy: 248, 556
+  xy: 614, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Crossbowman-Rome
   rotate: false
-  xy: 370, 648
+  xy: 737, 1568
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Crossbowman-Spain
+  rotate: false
+  xy: 888, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Gatlin Gun-Rome
   rotate: false
-  xy: 492, 740
+  xy: 4, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Gatling Gun-Aztecs
   rotate: false
-  xy: 615, 832
+  xy: 126, 1016
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Gatling Gun-Celts
   rotate: false
-  xy: 766, 924
+  xy: 248, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Gatling Gun-China
   rotate: false
-  xy: 4, 280
+  xy: 370, 1200
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Gatling Gun-Denmark
+  rotate: false
+  xy: 492, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Gatling Gun-Greece
   rotate: false
-  xy: 126, 372
+  xy: 614, 1384
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Gatling Gun-India
+  rotate: false
+  xy: 736, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Gatling Gun-Persia
   rotate: false
-  xy: 248, 464
+  xy: 859, 1568
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Gatling Gun-Spain
+  rotate: false
+  xy: 1010, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Great General-China
   rotate: false
-  xy: 370, 556
+  xy: 4, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Great Merchant-Celts
   rotate: false
-  xy: 492, 648
+  xy: 126, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Great War Infantry-Aztecs
   rotate: false
-  xy: 614, 740
+  xy: 248, 1016
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Great War Infantry-China
   rotate: false
-  xy: 737, 832
+  xy: 370, 1108
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Great War Infantry-Denmark
+  rotate: false
+  xy: 492, 1200
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Great War Infantry-Rome
   rotate: false
-  xy: 888, 924
+  xy: 614, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Hoplite-Greece
   rotate: false
-  xy: 4, 188
+  xy: 736, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Infantry-Aztecs
   rotate: false
-  xy: 126, 280
+  xy: 858, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Infantry-China
   rotate: false
-  xy: 248, 372
+  xy: 981, 1568
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Infantry-Denmark
+  rotate: false
+  xy: 1132, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Infantry-Greece
   rotate: false
-  xy: 370, 464
+  xy: 4, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Infantry-India
+  rotate: false
+  xy: 126, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Infantry-Persia
   rotate: false
-  xy: 492, 556
+  xy: 248, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Infantry-Rome
   rotate: false
-  xy: 614, 648
+  xy: 370, 1016
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Infantry-Spain
+  rotate: false
+  xy: 492, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Inmortal-Persia
   rotate: false
-  xy: 736, 740
+  xy: 614, 1200
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Jaguar
   rotate: false
-  xy: 859, 832
+  xy: 736, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Legion
   rotate: false
-  xy: 1010, 924
+  xy: 858, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Longswordsman-Celts
   rotate: false
-  xy: 4, 96
+  xy: 980, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Longswordsman-China
   rotate: false
-  xy: 126, 188
+  xy: 1103, 1568
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Longswordsman-Greece
   rotate: false
-  xy: 248, 280
+  xy: 1254, 1660
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Longswordsman-India
+  rotate: false
+  xy: 4, 648
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Longswordsman-Persia
   rotate: false
-  xy: 370, 372
+  xy: 126, 740
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Longswordsman-Rome
   rotate: false
-  xy: 492, 464
+  xy: 248, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Longswordsman-Spain
+  rotate: false
+  xy: 370, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Machine Gun-Aztecs
   rotate: false
-  xy: 614, 556
+  xy: 492, 1016
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Machine Gun-Celts
   rotate: false
-  xy: 736, 648
+  xy: 614, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Machine Gun-China
   rotate: false
-  xy: 858, 740
+  xy: 736, 1200
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Machine Gun-Denmark
+  rotate: false
+  xy: 858, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Machine Gun-Greece
   rotate: false
-  xy: 981, 832
+  xy: 980, 1384
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Machine Gun-India
+  rotate: false
+  xy: 1102, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Machine Gun-Persia
   rotate: false
-  xy: 1132, 924
+  xy: 1225, 1568
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Machine Gun-Rome
   rotate: false
-  xy: 4, 4
+  xy: 1376, 1660
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Machine Gun-Spain
+  rotate: false
+  xy: 4, 556
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Marine-Aztecs
   rotate: false
-  xy: 126, 96
+  xy: 126, 648
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Marine-Celts
   rotate: false
-  xy: 248, 188
+  xy: 248, 740
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Marine-China
   rotate: false
-  xy: 370, 280
+  xy: 370, 832
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-Denmark
+  rotate: false
+  xy: 492, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Marine-Greece
   rotate: false
-  xy: 492, 372
+  xy: 614, 1016
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-India
+  rotate: false
+  xy: 736, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Marine-Persia
   rotate: false
-  xy: 614, 464
+  xy: 858, 1200
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Marine-Rome
   rotate: false
-  xy: 736, 556
+  xy: 980, 1292
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Marine-Spain
+  rotate: false
+  xy: 1102, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Missionary-Aztecs
   rotate: false
-  xy: 858, 648
+  xy: 1224, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Missionary-China
   rotate: false
-  xy: 980, 740
+  xy: 1347, 1568
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Missionary-China-Renaissance era
   rotate: false
-  xy: 1103, 832
+  xy: 1498, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Missionary-Greece
   rotate: false
-  xy: 1254, 924
+  xy: 4, 464
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Missionary-Greece-Medieval era
   rotate: false
-  xy: 126, 4
+  xy: 126, 556
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Missionary-Greece-Modern era
   rotate: false
-  xy: 248, 96
+  xy: 248, 648
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Musketman-Aztecs
   rotate: false
-  xy: 370, 188
+  xy: 370, 740
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Musketman-Celts
   rotate: false
-  xy: 492, 280
+  xy: 492, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Musketman-China
   rotate: false
-  xy: 614, 372
+  xy: 614, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Musketman-Denmark
+  rotate: false
+  xy: 736, 1016
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Musketman-Greece
   rotate: false
-  xy: 736, 464
+  xy: 858, 1108
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Musketman-India
+  rotate: false
+  xy: 980, 1200
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Musketman-Persia
   rotate: false
-  xy: 858, 556
+  xy: 1102, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Musketman-Rome
   rotate: false
-  xy: 980, 648
+  xy: 1224, 1384
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Musketman-Spain
+  rotate: false
+  xy: 1346, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Paratrooper-China
   rotate: false
-  xy: 1102, 740
+  xy: 1469, 1568
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Paratrooper-Greece
   rotate: false
-  xy: 1225, 832
+  xy: 1620, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Paratrooper-Persia
   rotate: false
-  xy: 1376, 924
+  xy: 4, 372
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Paratrooper-Rome
   rotate: false
-  xy: 248, 4
+  xy: 126, 464
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Pictish Warrior
   rotate: false
-  xy: 370, 96
+  xy: 248, 556
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Pikeman-Aztecs
   rotate: false
-  xy: 492, 188
+  xy: 370, 648
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Pikeman-China
   rotate: false
-  xy: 614, 280
+  xy: 492, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Pikeman-Denmark
+  rotate: false
+  xy: 614, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Pikeman-Greece
   rotate: false
-  xy: 4, 924
+  xy: 4, 1660
   size: 144, 84
   orig: 144, 84
   offset: 0, 0
   index: -1
+TileSets/Countryballs/Units/Pikeman-India
+  rotate: false
+  xy: 736, 924
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
 TileSets/Countryballs/Units/Pikeman-Persia
   rotate: false
-  xy: 736, 372
+  xy: 858, 1016
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Pikeman-Rome
   rotate: false
-  xy: 858, 464
+  xy: 980, 1108
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Pikeman-Spain
+  rotate: false
+  xy: 1102, 1200
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Rifleman-Celts
   rotate: false
-  xy: 980, 556
+  xy: 1224, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Rifleman-China
   rotate: false
-  xy: 1102, 648
+  xy: 1346, 1384
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Rifleman-Denmark
+  rotate: false
+  xy: 1468, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Rifleman-Greece
   rotate: false
-  xy: 1224, 740
+  xy: 1591, 1568
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Rifleman-India
+  rotate: false
+  xy: 1742, 1660
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Rifleman-Persia
   rotate: false
-  xy: 1347, 832
+  xy: 4, 280
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Rifleman-Rome
   rotate: false
-  xy: 1498, 924
+  xy: 126, 372
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Rifleman-Spain
+  rotate: false
+  xy: 248, 464
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Scout-India
+  rotate: false
+  xy: 370, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Scout-Spain
+  rotate: false
+  xy: 492, 648
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Aztecs
   rotate: false
-  xy: 370, 4
+  xy: 614, 740
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Aztecs-Industrial era
   rotate: false
-  xy: 492, 96
+  xy: 736, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Celts
   rotate: false
-  xy: 614, 188
+  xy: 858, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Celts-Industrial era
   rotate: false
-  xy: 736, 280
+  xy: 980, 1016
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-China
   rotate: false
-  xy: 858, 372
+  xy: 1102, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-China-Modern era
   rotate: false
-  xy: 980, 464
+  xy: 1224, 1200
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-China-Renaissance era
   rotate: false
-  xy: 1102, 556
+  xy: 1346, 1292
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Denmark
+  rotate: false
+  xy: 1468, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Greece
   rotate: false
-  xy: 1224, 648
+  xy: 1590, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Greece-Classical era
   rotate: false
-  xy: 1346, 740
+  xy: 1713, 1568
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Greece-Modern era
   rotate: false
-  xy: 1469, 832
+  xy: 1864, 1660
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-India
+  rotate: false
+  xy: 4, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-India-Renaissance era
+  rotate: false
+  xy: 126, 280
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Persia
   rotate: false
-  xy: 1620, 924
+  xy: 248, 372
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Persia-Industrial era
   rotate: false
-  xy: 492, 4
+  xy: 370, 464
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Rome
   rotate: false
-  xy: 614, 96
+  xy: 492, 556
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Settler-Rome-Industrial era
   rotate: false
-  xy: 736, 188
+  xy: 614, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Spain
+  rotate: false
+  xy: 736, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Settler-Spain-Medieval era
+  rotate: false
+  xy: 858, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Spearman-Aztecs
   rotate: false
-  xy: 858, 280
+  xy: 980, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Spearman-China
   rotate: false
-  xy: 980, 372
+  xy: 1102, 1016
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Spearman-India
+  rotate: false
+  xy: 1224, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Spearman-Rome
   rotate: false
-  xy: 1102, 464
+  xy: 1346, 1200
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Spearman-Spain
+  rotate: false
+  xy: 1468, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Swordsman-Aztecs
   rotate: false
-  xy: 1224, 556
+  xy: 1590, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Swordsman-Celts
   rotate: false
-  xy: 1346, 648
+  xy: 1712, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Swordsman-China
   rotate: false
-  xy: 1468, 740
+  xy: 1835, 1568
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Swordsman-Denmark
+  rotate: false
+  xy: 4, 96
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Swordsman-Persia
   rotate: false
-  xy: 1591, 832
+  xy: 126, 188
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Swordsman-Spain
+  rotate: false
+  xy: 248, 280
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/War Elephant
+  rotate: false
+  xy: 370, 372
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Warrior-Celts
   rotate: false
-  xy: 1742, 924
+  xy: 492, 464
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Warrior-China
   rotate: false
-  xy: 614, 4
+  xy: 614, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Warrior-Denmark
+  rotate: false
+  xy: 736, 648
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Warrior-Greece
   rotate: false
-  xy: 736, 96
+  xy: 858, 740
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Warrior-India
+  rotate: false
+  xy: 980, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Warrior-Persia
   rotate: false
-  xy: 858, 188
+  xy: 1102, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Warrior-Rome
   rotate: false
-  xy: 980, 280
+  xy: 1224, 1016
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Warrior-Spain
+  rotate: false
+  xy: 1346, 1108
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Aztecs
   rotate: false
-  xy: 1102, 372
+  xy: 1468, 1200
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Aztecs-Industrial era
   rotate: false
-  xy: 1224, 464
+  xy: 1590, 1292
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Celts
   rotate: false
-  xy: 1346, 556
+  xy: 1712, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Celts-Industrial era
   rotate: false
-  xy: 1468, 648
+  xy: 1834, 1476
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Celts-Medieval era
   rotate: false
-  xy: 1590, 740
+  xy: 4, 4
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-China
   rotate: false
-  xy: 1713, 832
+  xy: 126, 96
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-China-Industrial era
   rotate: false
-  xy: 1864, 924
+  xy: 248, 188
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-China-Modern era
   rotate: false
-  xy: 736, 4
+  xy: 370, 280
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-China-Renaissance era
   rotate: false
-  xy: 858, 96
+  xy: 492, 372
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Greece
   rotate: false
-  xy: 980, 188
+  xy: 614, 464
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Greece-Classical era
   rotate: false
-  xy: 4, 832
+  xy: 4, 1568
   size: 115, 84
   orig: 115, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Greece-Modern era
   rotate: false
-  xy: 1102, 280
+  xy: 736, 556
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-India
+  rotate: false
+  xy: 858, 648
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-India-Renaissance era
+  rotate: false
+  xy: 980, 740
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Persia
   rotate: false
-  xy: 1224, 372
+  xy: 1102, 832
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Persia-Industrial era
   rotate: false
-  xy: 1346, 464
+  xy: 1224, 924
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Rome
   rotate: false
-  xy: 1468, 556
+  xy: 1346, 1016
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
   index: -1
 TileSets/Countryballs/Units/Worker-Rome-Industrial era
   rotate: false
-  xy: 1590, 648
+  xy: 1468, 1108
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Spain
+  rotate: false
+  xy: 1590, 1200
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Spain-Industrial era
+  rotate: false
+  xy: 1712, 1292
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+TileSets/Countryballs/Units/Worker-Spain-Medieval era
+  rotate: false
+  xy: 1834, 1384
   size: 114, 84
   orig: 114, 84
   offset: 0, 0
